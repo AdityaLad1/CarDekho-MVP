@@ -31,7 +31,7 @@
 | Package manager | pnpm | Faster installs, cleaner lockfile |
 | AI SDK | Vercel AI SDK (`ai`) + `@ai-sdk/google` | `ai` is the core SDK, `@ai-sdk/google` is the Gemini provider adapter. Inference goes directly to Google's Gemini API using my own API key — Vercel is not proxying or billing model usage |
 | Structured output | Zod v4 | Schema-first approach greatly reduces frontend crashes from malformed AI output. First prompt returns validated JSON, follow-ups return plain conversational text |
-| Model | `gemini-2.5-flash` | Fast inference, free-tier friendly, sufficient for structured recommendation generation in an MVP context |
+| Model | `gemini-3.1-flash-lite` | Extremely fast inference, low latency, free-tier friendly, sufficient for structured recommendation generation in an MVP context |
 | Deployment | Vercel | Zero-config for Next.js |
 
 **Key architecture decision:** Two separate Next.js 16 API routes — `/api/recommend` (first prompt: `generateObject` + Zod schema → structured 3-card JSON) and `/api/followup` (follow-ups: `generateText` → plain conversational text). This keeps structured and conversational concerns cleanly separated.
@@ -100,6 +100,10 @@
 
 ## Run Instructions
 
+The live deployment at [https://car-dekho-mvp.vercel.app/](https://car-dekho-mvp.vercel.app/) works out of the box — no setup needed.
+
+To run locally:
+
 ```bash
 # Clone the repo
 git clone https://github.com/AdityaLad1/CarDekho-MVP.git
@@ -108,7 +112,7 @@ cd CarDekho-MVP
 # Install dependencies
 pnpm install
 
-# Add your Gemini API key
+# Add your own Gemini API key (only needed for local dev)
 echo "GEMINI_API_KEY=your_key_here" > .env.local
 
 # Run dev server
