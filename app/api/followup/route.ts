@@ -8,7 +8,11 @@ export async function POST(req: Request) {
 
     const { userMessage, chatHistory } = body
 
-    const prompt = buildPrompt(userMessage, chatHistory)
+    const prompt = buildPrompt(
+      userMessage,
+      chatHistory,
+      true
+    )
 
     const result = await generateText({
       model: google("gemini-3.1-flash-lite"),
