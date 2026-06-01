@@ -1,0 +1,1214 @@
+[
+  {
+    "id": 1,
+    "brand": "Maruti Suzuki",
+    "model": "Brezza",
+    "variant": "ZXi+",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 13.98,
+      "max": 14.9
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.8,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1462,
+      "power_bhp": 103,
+      "torque_nm": 137,
+      "transmission": "Automatic"
+    },
+    "best_for": [
+      "city",
+      "highway",
+      "first-time buyer",
+      "small family"
+    ],
+    "pros": [
+      "high resale value",
+      "low maintenance",
+      "fuel efficient"
+    ],
+    "cons": [
+      "no diesel option",
+      "average boot space"
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "Tata",
+    "model": "Punch",
+    "variant": "Accomplished Plus S CNG AMT",
+    "body_type": "SUV",
+    "fuel_type": "CNG",
+    "price_lakh": {
+      "min": 5.65,
+      "max": 10.60
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 26.9,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1199,
+      "power_bhp": 73.5,
+      "torque_nm": 103,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "small family", "bad roads"],
+    "pros":[],
+    "cons": ["touch-based AC panel is distracting", "average interior plastics"]
+  },
+  {
+    "id": 3,
+    "brand": "Honda",
+    "model": "City",
+    "variant": "ZX Plus Hybrid",
+    "body_type": "Sedan",
+    "fuel_type": "Hybrid",
+    "price_lakh": {
+      "min": 12.00,
+      "max": 21.00
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 27.1,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1498,
+      "power_bhp": 125.0,
+      "torque_nm": 253,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "highway", "chauffeur driven"],
+    "pros": ["highly refined powertrain", "exceptional fuel economy", "stable high-speed ride"],
+    "cons": ["limited headroom for tall passengers", "poor 360-degree camera execution"]
+  },
+  {
+    "id": 4,
+    "brand": "Tata",
+    "model": "Sierra",
+    "variant": "Accomplished Plus Diesel AT",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 11.49,
+      "max": 21.29
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 21.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1497,
+      "power_bhp": 115.0,
+      "torque_nm": 260,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "large family", "status symbol"],
+    "pros":[],
+    "cons": ["refinement of diesel engine could improve", "minor electronic niggles"]
+  },
+  {
+    "id": 5,
+    "brand": "Mahindra",
+    "model": "Thar",
+    "variant": "LXT 4WD Diesel AT",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 9.99,
+      "max": 17.62
+    },
+    "seating_capacity": 4,
+    "mileage_kmpl": 9.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 2184,
+      "power_bhp": 150.0,
+      "torque_nm": 320,
+      "transmission": "Automatic"
+    },
+    "best_for": ["off-roading", "lifestyle", "enthusiasts"],
+    "pros": ["unstoppable off-road capability", "intimidating road presence", "commanding view"],
+    "cons": ["highly impractical rear seats", "difficult ingress and egress", "bumpy ride quality"]
+  },
+  {
+    "id": 6,
+    "brand": "Mahindra",
+    "model": "Scorpio N",
+    "variant": "Z8L Diesel 4x4 AT",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 13.49,
+      "max": 24.95
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 15.9,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 2198,
+      "power_bhp": 172.0,
+      "torque_nm": 400,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "large family", "rough terrain"],
+    "pros": ["rugged ladder-frame chassis", "premium interior design", "5-star Global NCAP"],
+    "cons": ["cramped third row seating", "low fuel efficiency in heavy traffic", "heavy handling"]
+  },
+  {
+    "id": 7,
+    "brand": "Maruti Suzuki",
+    "model": "FRONX",
+    "variant": "Alpha Turbo DT AT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 6.85,
+      "max": 11.98
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 20.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 998,
+      "power_bhp": 98.6,
+      "torque_nm": 147,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "youth", "daily commute"],
+    "pros": ["sporty coupe styling", "peppy turbo performance", "plush suspension"],
+    "cons": ["limited rear headroom", "feels lightweight", "misses ventilated seats"]
+  },
+  {
+    "id": 8,
+    "brand": "Mahindra",
+    "model": "Scorpio",
+    "variant": "S 11 7CC",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 13.00,
+      "max": 17.00
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 14.4,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 2184,
+      "power_bhp": 130.0,
+      "torque_nm": 300,
+      "transmission": "Manual"
+    },
+    "best_for": ["rural areas", "highway", "large family"],
+    "pros": ["menacing road presence", "highly durable and rugged", "refined mHawk engine"],
+    "cons": ["outdated interior layout", "unsafe side-facing third row seats", "zero star crash rating"]
+  },
+  {
+    "id": 9,
+    "brand": "Maruti Suzuki",
+    "model": "e Vitara",
+    "variant": "Alpha Dual Tone",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "price_lakh": {
+      "min": 15.99,
+      "max": 20.01
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": null,
+    "range_km": 543,
+    "key_specs": {
+      "engine_cc": null,
+      "power_bhp": 172.0,
+      "torque_nm": 250,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "highway", "eco-conscious buyer"],
+    "pros":[],
+    "cons": ["poor rear underthigh support", "lack of steering reach adjustment", "small boot"]
+  },
+  {
+    "id": 10,
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "variant": "ZXi Plus AMT DT",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 5.79,
+      "max": 8.80
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 25.7,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1197,
+      "power_bhp": 80.4,
+      "torque_nm": 111,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "first-time buyer", "young drivers"],
+    "pros": ["fun to drive", "excellent real-world mileage", "sporty exterior styling"],
+    "cons": ["1-star Global NCAP safety", "scratchy cabin plastics", "overheating wireless charger"]
+  },
+  {
+    "id": 11,
+    "brand": "Maruti Suzuki",
+    "model": "Ertiga",
+    "variant": "ZXI Plus AT",
+    "body_type": "MUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 8.80,
+      "max": 12.94
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 20.3,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1462,
+      "power_bhp": 101.6,
+      "torque_nm": 136,
+      "transmission": "Automatic"
+    },
+    "best_for": ["large family", "commercial fleets", "city commute"],
+    "pros": ["highly practical interior", "economical running costs", "reliable mechanicals"],
+    "cons": ["1-star safety rating", "flat sound system", "boring aesthetic"]
+  },
+  {
+    "id": 12,
+    "brand": "Tata",
+    "model": "Nexon",
+    "variant": "Fearless Plus PS Dark Diesel AMT",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 7.37,
+      "max": 14.22
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 24.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1497,
+      "power_bhp": 113.3,
+      "torque_nm": 260,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "city", "safety conscious"],
+    "pros": ["5-star global safety rating", "futuristic exterior design", "outstanding ride absorption"],
+    "cons": ["poor cabin ergonomics", "inconsistent panel fitment", "weak after-sales network"]
+  },
+  {
+    "id": 13,
+    "brand": "Hyundai",
+    "model": "Creta",
+    "variant": "King Turbo DCT DT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 10.79,
+      "max": 20.05
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.4,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1482,
+      "power_bhp": 157.5,
+      "torque_nm": 253,
+      "transmission": "Automatic"
+    },
+    "best_for": ["family", "highway", "city"],
+    "pros": ["stellar cabin comfort", "feature rich interior", "refined powertrain"],
+    "cons": ["no wireless Android Auto on high trims", "high boot loading lip", "polarizing rear styling"]
+  },
+  {
+    "id": 14,
+    "brand": "Toyota",
+    "model": "Fortuner",
+    "variant": "GR S 4X4 Diesel AT",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 34.76,
+      "max": 50.46
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 10.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 2755,
+      "power_bhp": 201.1,
+      "torque_nm": 500,
+      "transmission": "Automatic"
+    },
+    "best_for": ["off-roading", "status symbol", "highway"],
+    "pros": ["unmatched reliability", "legendary resale value", "imposing road presence"],
+    "cons": ["extremely overpriced", "outdated interior layout", "heavy low-speed steering"]
+  },
+  {
+    "id": 15,
+    "brand": "Kia",
+    "model": "Seltos",
+    "variant": "X-Line A TGDi DCT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 10.99,
+      "max": 19.99
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 17.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1482,
+      "power_bhp": 158.0,
+      "torque_nm": 253,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "highway", "tech enthusiasts"],
+    "pros":[],
+    "cons": ["stiff ride quality", "low placement of reversing lamp"]
+  },
+  {
+    "id": 16,
+    "brand": "Maruti Suzuki",
+    "model": "Baleno",
+    "variant": "Alpha AMT",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 5.99,
+      "max": 9.10
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 22.9,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1197,
+      "power_bhp": 88.5,
+      "torque_nm": 113,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "first-time buyer", "daily commute"],
+    "pros": ["spacious interior", "smooth naturally aspirated engine", "good driving ergonomics"],
+    "cons": ["limited cargo space", "basic infotainment system"]
+  },
+  {
+    "id": 17,
+    "brand": "Toyota",
+    "model": "Urban Cruiser EBELLA",
+    "variant": "E3",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "price_lakh": {
+      "min": 23.60,
+      "max": 25.00
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": null,
+    "range_km": 543,
+    "key_specs": {
+      "engine_cc": null,
+      "power_bhp": 171.6,
+      "torque_nm": 193,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "highway", "eco-conscious buyer"],
+    "pros":[],
+    "cons": ["high initial cost", "missing traffic sign recognition"]
+  },
+  {
+    "id": 18,
+    "brand": "MG",
+    "model": "Majestor",
+    "variant": "Savvy 4x4",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 40.99,
+      "max": 44.99
+    },
+    "seating_capacity": 6,
+    "mileage_kmpl": 12.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1996,
+      "power_bhp": 213.0,
+      "torque_nm": 478,
+      "transmission": "Automatic"
+    },
+    "best_for": ["large family", "off-roading", "highway cruisers"],
+    "pros": ["longest vehicle in segment", "tough 4x4 off-road hardware", "highly luxurious interior"],
+    "cons": ["heavy fuel consumption", "difficult to park in tight city spaces"]
+  },
+  {
+    "id": 19,
+    "brand": "Skoda",
+    "model": "Superb 2026",
+    "variant": "Base",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 50.00,
+      "max": 52.00
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 14.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1998,
+      "power_bhp": 188.0,
+      "torque_nm": 320,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "executives", "chauffeur driven"],
+    "pros": ["luxurious ventilated massage seats", "huge 13-inch infotainment display", "smooth driving dynamics"],
+    "cons": ["high expected price point", "some global variants lack panoramic sunroof"]
+  },
+  {
+    "id": 20,
+    "brand": "Audi",
+    "model": "Q3 2026",
+    "variant": "S-Line",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 48.00,
+      "max": 52.00
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 13.5,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1984,
+      "power_bhp": 187.7,
+      "torque_nm": 320,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "highway", "luxury buyers"],
+    "pros":[],
+    "cons":[]
+  },
+  {
+    "id": 21,
+    "brand": "Hyundai",
+    "model": "Inster",
+    "variant": "AX5",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "price_lakh": {
+      "min": 12.00,
+      "max": 15.00
+    },
+    "seating_capacity": 4,
+    "mileage_kmpl": null,
+    "range_km": 355,
+    "key_specs": {
+      "engine_cc": null,
+      "power_bhp": 115.0,
+      "torque_nm": 147,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "eco-conscious buyer", "daily commute"],
+    "pros":[],
+    "cons":[]
+  },
+  {
+    "id": 22,
+    "brand": "Nissan",
+    "model": "Terrano 2025",
+    "variant": "HTK Plus",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 10.00,
+      "max": 13.00
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 17.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1497,
+      "power_bhp": 113.0,
+      "torque_nm": 144,
+      "transmission": "Manual"
+    },
+    "best_for": ["city", "highway", "small family"],
+    "pros": ["sunroof availability", "rugged styling cues", "spacious cabin design"],
+    "cons": ["very late entry to a crowded segment", "unproven long-term market support"]
+  },
+  {
+    "id": 23,
+    "brand": "Renault",
+    "model": "Bigster",
+    "variant": "HX6 Plus iVT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 12.00,
+      "max": 16.00
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 15.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1299,
+      "power_bhp": 130.0,
+      "torque_nm": 230,
+      "transmission": "Automatic"
+    },
+    "best_for": ["large family", "highway", "rough terrain"],
+    "pros": ["massive size and road presence", "high-quality electronic integration", "spacious interior"],
+    "cons": ["relatively small engine displacement for size", "sub-par dealership network reach"]
+  },
+  {
+    "id": 24,
+    "brand": "Hyundai",
+    "model": "Venue",
+    "variant": "HX 5 Turbo DCT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 7.99,
+      "max": 13.08
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.1,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 998,
+      "power_bhp": 118.0,
+      "torque_nm": 172,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "daily commute", "young drivers"],
+    "pros":[],
+    "cons": ["cramped rear seat legroom", "firm low-speed ride quality"]
+  },
+  {
+    "id": 25,
+    "brand": "Hyundai",
+    "model": "Venue N Line",
+    "variant": "N10 DCT Dual Tone",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 10.65,
+      "max": 15.66
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 998,
+      "power_bhp": 118.0,
+      "torque_nm": 172,
+      "transmission": "Automatic"
+    },
+    "best_for": ["enthusiasts", "city", "highway runabouts"],
+    "pros": ["sporty dual-tip exhaust note", "stiffer suspension setup", "sharp steering response"],
+    "cons": ["expensive for a sub-compact", "harsh ride over broken roads"]
+  },
+  {
+    "id": 26,
+    "brand": "Kia",
+    "model": "Sonet",
+    "variant": "GTX Plus Diesel AT",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 7.74,
+      "max": 14.00
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1493,
+      "power_bhp": 114.0,
+      "torque_nm": 250,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "city", "enthusiasts"],
+    "pros": ["highly feature loaded", "punchy diesel automatic combination", "premium interior design"],
+    "cons": ["stiff suspension setup", "heavily limited rear legroom"]
+  },
+  {
+    "id": 27,
+    "brand": "Mahindra",
+    "model": "XUV700",
+    "variant": "AX7 Diesel AT",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 14.50,
+      "max": 25.00
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 15.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 2198,
+      "power_bhp": 182.3,
+      "torque_nm": 450,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "large family", "long cross-country drives"],
+    "pros":[],
+    "cons": ["historically long waiting periods", "heavy fuel consumption in city traffic"]
+  },
+  {
+    "id": 28,
+    "brand": "Toyota",
+    "model": "Innova Crysta",
+    "variant": "2.4 Zx 7Str",
+    "body_type": "MUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 18.99,
+      "max": 25.98
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 9.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 2393,
+      "power_bhp": 148.0,
+      "torque_nm": 343,
+      "transmission": "Manual"
+    },
+    "best_for": ["chauffeur driven", "highway", "commercial fleet operators"],
+    "pros": ["bulletproof mechanical reliability", "excellent resale value retention", "highly comfortable highway ride"],
+    "cons": ["heavy steering effort at low speeds", "outdated infotainment and cabin tech"]
+  },
+  {
+    "id": 29,
+    "brand": "Toyota",
+    "model": "Innova Hycross",
+    "variant": "VX(O) 7STR Hybrid",
+    "body_type": "MUV",
+    "fuel_type": "Hybrid",
+    "price_lakh": {
+      "min": 18.70,
+      "max": 35.40
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 23.2,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1987,
+      "power_bhp": 183.0,
+      "torque_nm": 206,
+      "transmission": "Automatic"
+    },
+    "best_for": ["large family", "city commute", "highway cruising"],
+    "pros": ["exceptional hybrid fuel economy", "plush monocoque ride quality", "spacious and usable third row"],
+    "cons": ["very expensive top-end variants", "interior plastics lack true premium feel"]
+  },
+  {
+    "id": 30,
+    "brand": "Skoda",
+    "model": "Kodiaq",
+    "variant": "Selection L&K",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 36.99,
+      "max": 46.99
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 14.8,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1984,
+      "power_bhp": 187.0,
+      "torque_nm": 320,
+      "transmission": "Automatic"
+    },
+    "best_for": ["luxury buyers", "highway", "family road trips"],
+    "pros": ["excellent European build quality", "sophisticated and understated design", "highly dynamic handling"],
+    "cons": ["high running and maintenance costs", "cramped third row suitable only for kids"]
+  },
+  {
+    "id": 31,
+    "brand": "Skoda",
+    "model": "Kushaq",
+    "variant": "Style",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 10.69,
+      "max": 18.99
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 17.8,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1498,
+      "power_bhp": 148.0,
+      "torque_nm": 250,
+      "transmission": "Automatic"
+    },
+    "best_for": ["driving enthusiasts", "highway", "city"],
+    "pros":[],
+    "cons": ["expensive long-term spare parts", "narrow cabin width makes it a strict 4-seater"]
+  },
+  {
+    "id": 32,
+    "brand": "Skoda",
+    "model": "Kylaq",
+    "variant": "Signature Plus",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 7.59,
+      "max": 12.99
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 999,
+      "power_bhp": 113.0,
+      "torque_nm": 178,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "small family", "highway runs"],
+    "pros": ["highly accessible entry pricing", "premium European styling cues", "robust safety framework"],
+    "cons": ["limited dealership network reach", "unproven long term reliability in segment"]
+  },
+  {
+    "id": 33,
+    "brand": "Skoda",
+    "model": "Slavia",
+    "variant": "Style",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 10.69,
+      "max": 18.39
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.7,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1498,
+      "power_bhp": 148.0,
+      "torque_nm": 250,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "driving enthusiasts", "corporate executives"],
+    "pros": ["class leading ground clearance", "massive boot space capacity", "excellent high-speed ride and handling"],
+    "cons": ["noisy cabin at high speeds", "expensive routine maintenance"]
+  },
+  {
+    "id": 34,
+    "brand": "Volkswagen",
+    "model": "Virtus",
+    "variant": "GT Plus Sport DSG",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 10.50,
+      "max": 19.00
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.6,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1498,
+      "power_bhp": 148.0,
+      "torque_nm": 250,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "driving enthusiasts", "executives"],
+    "pros":[],
+    "cons": ["high fuel consumption when driven aggressively", "interior plastics feel cheap in lower half of cabin"]
+  },
+  {
+    "id": 35,
+    "brand": "Volkswagen",
+    "model": "Taigun",
+    "variant": "GT Plus Sport DSG",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 11.00,
+      "max": 19.30
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.1,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1498,
+      "power_bhp": 148.0,
+      "torque_nm": 250,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "driving enthusiasts", "small family"],
+    "pros": ["superb driving dynamics", "strong and responsive engine", "5-star GNCAP structural safety"],
+    "cons": ["strict 4-seater due to narrow width", "firm ride quality over sharp bumps"]
+  },
+  {
+    "id": 36,
+    "brand": "Tata",
+    "model": "Altroz",
+    "variant": "Pure AMT",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 6.30,
+      "max": 10.77
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1199,
+      "power_bhp": 86.0,
+      "torque_nm": 113,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "highway", "safety conscious buyers"],
+    "pros": ["5-star global NCAP", "stunning exterior design", "wide opening 90-degree doors"],
+    "cons":[]
+  },
+  {
+    "id": 37,
+    "brand": "Renault",
+    "model": "Kwid",
+    "variant": "Climber AMT",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 4.30,
+      "max": 5.99
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 22.3,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 999,
+      "power_bhp": 67.0,
+      "torque_nm": 91,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "first-time buyer", "tight parking spaces"],
+    "pros":[],
+    "cons": ["poor NVH (Noise, Vibration, Harshness) levels", "cramped rear seat"]
+  },
+  {
+    "id": 38,
+    "brand": "Renault",
+    "model": "Kiger",
+    "variant": "RXZ Turbo CVT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 5.81,
+      "max": 10.50
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 20.5,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 999,
+      "power_bhp": 98.6,
+      "torque_nm": 152,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "budget buyers", "small family"],
+    "pros": ["excellent value for money", "massive 405-liter boot space", "handsome French styling"],
+    "cons": ["stiff ride quality", "cabin plastics lack a premium feel"]
+  },
+  {
+    "id": 39,
+    "brand": "Nissan",
+    "model": "Magnite",
+    "variant": "Tekna Turbo CVT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 5.65,
+      "max": 10.96
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 17.9,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 999,
+      "power_bhp": 98.6,
+      "torque_nm": 152,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "budget buyers", "daily commute"],
+    "pros":[],
+    "cons": ["noisy 3-cylinder engine", "stiff suspension setup transfers bumps"]
+  },
+  {
+    "id": 40,
+    "brand": "MG",
+    "model": "Hector",
+    "variant": "Savvy Pro 5Str CVT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 11.99,
+      "max": 19.19
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 12.3,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1451,
+      "power_bhp": 141.0,
+      "torque_nm": 250,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "family", "tech enthusiasts"],
+    "pros": ["massive portrait touchscreen", "highly spacious cabin", "panoramic sunroof"],
+    "cons": ["poor fuel economy in city", "no diesel automatic option available"]
+  },
+  {
+    "id": 41,
+    "brand": "MG",
+    "model": "Hector Plus",
+    "variant": "Savvy Pro 7Str CVT",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 17.49,
+      "max": 19.69
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 12.0,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1451,
+      "power_bhp": 141.0,
+      "torque_nm": 250,
+      "transmission": "Automatic"
+    },
+    "best_for": ["large family", "highway", "chauffeur driven"],
+    "pros": ["comfortable captain seats option", "plush ride quality", "extensive tech feature list"],
+    "cons": ["cramped third row seating", "heavy steering feel"]
+  },
+  {
+    "id": 42,
+    "brand": "Citroen",
+    "model": "C3",
+    "variant": "Turbo Shine Sport Edition AT",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 4.99,
+      "max": 10.21
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.3,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1199,
+      "power_bhp": 108.0,
+      "torque_nm": 190,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "driving enthusiasts", "bad roads"],
+    "pros": ["magic carpet ride quality", "punchy turbo engine", "funky exterior styling"],
+    "cons": ["misses basic features like auto AC", "flimsy door handles and interior plastics"]
+  },
+  {
+    "id": 43,
+    "brand": "Citroen",
+    "model": "Aircross",
+    "variant": "Max 7 Seater",
+    "body_type": "SUV",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 8.89,
+      "max": 14.10
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 18.5,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1199,
+      "power_bhp": 108.0,
+      "torque_nm": 190,
+      "transmission": "Manual"
+    },
+    "best_for": ["budget family buyers", "highway", "bad roads"],
+    "pros": ["highly affordable 7-seater", "excellent suspension setup", "clever removable third row seats"],
+    "cons": ["lack of widespread service centers", "missing premium features like a sunroof"]
+  },
+  {
+    "id": 44,
+    "brand": "BYD",
+    "model": "Atto 3",
+    "variant": "Superior",
+    "body_type": "SUV",
+    "fuel_type": "Electric",
+    "price_lakh": {
+      "min": 24.99,
+      "max": 33.99
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": null,
+    "range_km": 521,
+    "key_specs": {
+      "engine_cc": null,
+      "power_bhp": 201.0,
+      "torque_nm": 310,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "highway", "tech enthusiasts"],
+    "pros": ["quirky aviation inspired interior", "ultra-safe blade battery technology", "5-star Euro NCAP safety rating"],
+    "cons": ["polarizing cabin design elements", "expensive compared to localized EV rivals"]
+  },
+  {
+    "id": 45,
+    "brand": "MG",
+    "model": "Comet EV",
+    "variant": "Exclusive",
+    "body_type": "Hatchback",
+    "fuel_type": "Electric",
+    "price_lakh": {
+      "min": 7.50,
+      "max": 10.96
+    },
+    "seating_capacity": 4,
+    "mileage_kmpl": null,
+    "range_km": 230,
+    "key_specs": {
+      "engine_cc": null,
+      "power_bhp": 41.4,
+      "torque_nm": 110,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "daily commute", "tight parking"],
+    "pros": ["incredibly easy to park", "premium tech inside", "very low running costs"],
+    "cons": ["unconventional styling", "limited top speed and highway usability"]
+  },
+  {
+    "id": 46,
+    "brand": "Hyundai",
+    "model": "Grand i10 Nios",
+    "variant": "Asta AMT",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 5.55,
+      "max": 8.03
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 20.7,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1197,
+      "power_bhp": 82.0,
+      "torque_nm": 114,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "first-time buyer", "daily commute"],
+    "pros": ["highly refined engine", "premium cabin quality", "light clutch and steering"],
+    "cons": ["narrow rear seat for three adults", "bouncy ride at high speeds"]
+  },
+  {
+    "id": 47,
+    "brand": "Hyundai",
+    "model": "i20",
+    "variant": "Asta Opt iVT Knight",
+    "body_type": "Hatchback",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 5.99,
+      "max": 10.44
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.6,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1197,
+      "power_bhp": 86.8,
+      "torque_nm": 115,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "premium buyers", "youth"],
+    "pros":[],
+    "cons": ["expensive top end variants", "lacks a punchy diesel option"]
+  },
+  {
+    "id": 48,
+    "brand": "Hyundai",
+    "model": "Aura",
+    "variant": "SX Plus AMT",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 6.00,
+      "max": 8.54
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 20.5,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1197,
+      "power_bhp": 82.0,
+      "torque_nm": 114,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "chauffeur driven", "family"],
+    "pros": ["large boot space", "refined cabin experience", "light steering for city use"],
+    "cons": ["polarizing rear design", "narrow cabin width limits rear seat comfort"]
+  },
+  {
+    "id": 49,
+    "brand": "Honda",
+    "model": "Amaze",
+    "variant": "ZX CVT",
+    "body_type": "Sedan",
+    "fuel_type": "Petrol",
+    "price_lakh": {
+      "min": 6.98,
+      "max": 10.00
+    },
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.3,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1199,
+      "power_bhp": 88.5,
+      "torque_nm": 110,
+      "transmission": "Automatic"
+    },
+    "best_for": ["city", "family", "daily commute"],
+    "pros":[],
+    "cons": ["engine gets noisy at high rpms", "outdated infotainment system graphics"]
+  },
+  {
+    "id": 50,
+    "brand": "Tata",
+    "model": "Safari",
+    "variant": "Accomplished Plus",
+    "body_type": "SUV",
+    "fuel_type": "Diesel",
+    "price_lakh": {
+      "min": 11.49,
+      "max": 21.29
+    },
+    "seating_capacity": 7,
+    "mileage_kmpl": 16.3,
+    "range_km": null,
+    "key_specs": {
+      "engine_cc": 1956,
+      "power_bhp": 167.6,
+      "torque_nm": 350,
+      "transmission": "Automatic"
+    },
+    "best_for": ["highway", "large family", "road trips"],
+    "pros": ["excellent ride quality", "spacious third row", "5-star safety rating"],
+    "cons": ["heavy steering", "ergonomic issues with knee room"]
+  }
+]
